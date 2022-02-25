@@ -2,7 +2,7 @@
 name = "RocketLeagueStreamingScripts"
 version = "0.1.0"
 description = "Test streaming scripts"
-authors = ["James Alford-Golojuch <jamesag26@gmail.com>"]
+authors = ["James Alford-Golojuch <jamesag26@gmail.com>", "Franklin Durbin <FranklinADurbin@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
